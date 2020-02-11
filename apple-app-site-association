@@ -1,0 +1,31 @@
+{
+    "applinks":{
+        "apps":[],
+        "details":[
+            {
+                "appID":"RF2MHF8E5N.cn.gov.dg.dgnzb",
+                "paths":[
+                    "/cgi-bin/newreadtemplate",
+                    "/app/*"
+                ]
+            },{
+                "appID":"RF2MHF8E5N.cn.gov.dg.dgnzb",
+                "paths":[
+                    "/cgi-bin/newreadtemplate",
+		    "*"
+                ]
+            },{
+                "appID":"RF2MHF8E5N.cn.gov.dg.dgnzb",
+                "paths":[
+                    "/cgi-bin/newreadtemplate",
+		    "/app/*"
+                ]
+            },{
+                "appID":"RF2MHF8E5N.cn.gov.dg.dgnzb",
+                "paths":[
+		    "/testdemo/*"
+                ]
+            }
+        ]
+    }
+}
